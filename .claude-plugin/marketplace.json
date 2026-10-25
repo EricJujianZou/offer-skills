@@ -1,0 +1,15 @@
+{
+  "name": "offer-skills",
+  "description": "Eight Claude Code skills that build or audit a product offer with the method from the book $100M Offers.",
+  "owner": {
+    "name": "Eric Zou",
+    "url": "https://github.com/EricJujianZou"
+  },
+  "plugins": [
+    {
+      "name": "offer-skills",
+      "source": "./",
+      "description": "Build a complete offer, or audit an existing one: market and price, core offer, scarcity, urgency, bonuses, guarantee and name."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "offer-skills",
+  "version": "0.1.0",
+  "description": "Build a complete product offer, or audit an existing one, with the method from the book $100M Offers. One umbrella skill runs seven part skills in a fixed order and assembles an offer summary.",
+  "author": {
+    "name": "Eric Zou",
+    "url": "https://github.com/EricJujianZou"
+  },
+  "homepage": "https://github.com/EricJujianZou/offer-skills",
+  "repository": "https://github.com/EricJujianZou/offer-skills",
+  "license": "MIT",
+  "keywords": [
+    "offer",
+    "pricing",
+    "marketing",
+    "landing-page",
+    "sales",
+    "hormozi",
+    "skill"
+  ]
+}
