@@ -47,40 +47,25 @@ cp -r offer-skills/skills/* ~/.agents/skills/
 
 A build session, shortened. The agent is running the umbrella skill, which calls the other seven in turn.
 
-```
-> build me an offer for my resume review service. $40 a review, I can do about 10 a week.
+**You:** build me an offer for my resume review service. $40 a review, I can do about 10 a week.
 
-Before I start I need six things in one reply: who buys it today, any proof it
-works (results, counts, testimonials), your weekly capacity, your current price,
-and anything on your sales calendar (term starts, application deadlines, price
-changes).
+**Agent:** Before I start I need five things in one reply: who buys it today, any proof it works (results, counts, testimonials), your weekly capacity, your current price, and anything on your sales calendar (term starts, application deadlines, price changes).
 
-> students applying to internships. 60 reviews so far, 11 told me they got
-> interviews after. 10 a week. $40. co-op applications open Jan 6 and May 5.
+**You:** students applying to internships. 60 reviews so far, 11 told me they got interviews after. 10 a week. $40. co-op applications open Jan 6 and May 5.
 
-MARKET
-  Niche: engineering students applying to their first paid internship
-  Pain: pass.  Purchasing power: pass (parents pay, cost of a missed term is
-  high).  Easy to target: pass (program subreddits, co-op portals).
-  Growing: pass.
-  Price position: premium. Competitors charge $20 to $60 for one pass over the
-  document and none of them promises a result.
+**Agent:** Running the seven skills in order.
 
-CORE OFFER
-  Dream outcome: an interview from the first batch of applications
-  ...
-  Total stated value: $1,140.  Proposed price: $197.
+| | Step | Result |
+|---|---|---|
+| 1 | Market | Engineering students applying to their first paid internship. All four market tests pass. Premium price position: competitors charge $20 to $60 for one pass over the document and none of them promises a result. |
+| 2 | Core offer | Dream outcome: an interview from the first batch of applications. Seven deliverables, total stated value $1,140, proposed price $197. |
+| 3 | Scarcity | 10 students a week, stated on the page and held to. |
+| 4 | Urgency | Rolling seasonal. The price rises after January 6 and after May 5. |
+| 5 | Bonuses | Three, $390 stated: an application tracker, reply templates, and one re-review after the first rejection. |
+| 6 | Guarantee | Conditional. No interview within 30 days of sending 20 applications earns a second full review free. |
+| 7 | Name | First Interview Resume Rebuild for Engineering Students |
 
-SCARCITY   10 students a week, stated on the page and held to.
-URGENCY    Rolling seasonal: price rises after Jan 6 and May 5.
-BONUSES    Three, worth $390 stated: application tracker, reply templates,
-           one re-review after the first rejection.
-GUARANTEE  Conditional: no interview within 30 days of sending 20
-           applications gets a second full review free.
-NAME       First Interview Resume Rebuild for Engineering Students
-```
-
-Then the summary, with every number traced back to the step that produced it, and an audit of the whole thing against the book's tests.
+**Agent:** Here is the offer summary, with every number traced back to the step that produced it, followed by the audit of the whole offer against the book's tests. Two tests failed, both on the guarantee wording, so I ran the guarantee skill again and updated the summary.
 
 ## Use
 
